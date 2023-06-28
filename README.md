@@ -1,5 +1,5 @@
 # ProxmoxCentralControl
-Panel Central para controlar estado en forma dinámica de las VM y los LXC corriendo en múltiples Servidores Proxmox independientes
+Panel Central mostrado en una web html para controlar estado en forma dinámica de las VM y los LXC corriendo en múltiples Servidores Proxmox independientes y link a cada uno de ellos
 
 # Funcionamiento
 Para el funcionamiento, se requiere: 
